@@ -61,4 +61,4 @@ Note
 
 ## Authors
 ---
-- Andrew Heath ([@anheath](https://gitlab.cee.redhat.com/anheath))
+- Andrew Heath ([@aheath1992](https://github.com/aheath1992))
